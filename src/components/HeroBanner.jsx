@@ -42,7 +42,7 @@ const HeroBanner = () => {
                         <div className="w-[35px] h-[35px] rounded-full bg-[#252525] flex justify-center items-center">
                             <img src={gmailIcon} alt="" className="w-[18px]" />
                         </div>
-                        <div>jsdev@gmail.com</div>
+                        <div>pranavmodgil@gmail.com</div>
                     </div>
                     <ul className="flex 2xl:text-[20px]">
                         <li
@@ -81,9 +81,9 @@ const HeroBanner = () => {
                     transition={{ duration: 0.5 }}
                 >
                     <h1 className="text-[50px] md:text-[120px] 2xl:text-[189px] leading-[50px] md:leading-[125px]  2xl:leading-[192px] font-oswald uppercase">
-                        I Am A Creative
+                        I Am A
                         <br className="invisible md:visible" />
-                        Designer
+                        Tech Enthusaist
                     </h1>
                 </motion.div>
                 {/* BIG HEADING END */}
